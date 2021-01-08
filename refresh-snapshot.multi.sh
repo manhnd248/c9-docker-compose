@@ -30,6 +30,28 @@ sudo cp -r ./* /var/lib/docker/volumes/c9-docker-compose_9c-miner4-volume/_data/
 
 sudo cp -r ./* /var/lib/docker/volumes/c9-docker-compose_9c-miner5-volume/_data/
 
+sudo cp -r ./* /var/lib/docker/volumes/c9-docker-compose_9c-miner6-volume/_data/
+
+sudo cp -r ./* /var/lib/docker/volumes/c9-docker-compose_9c-miner7-volume/_data/
+
+sudo cp -r ./* /var/lib/docker/volumes/c9-docker-compose_9c-miner8-volume/_data/
+
+sudo cp -r ./* /var/lib/docker/volumes/c9-docker-compose_9c-miner9-volume/_data/
+
+sudo cp -r ./* /var/lib/docker/volumes/c9-docker-compose_9c-miner10-volume/_data/
+
+sudo cp -r ./* /var/lib/docker/volumes/c9-docker-compose_9c-miner11-volume/_data/
+
+sudo cp -r ./* /var/lib/docker/volumes/c9-docker-compose_9c-miner12-volume/_data/
+
+sudo cp -r ./* /var/lib/docker/volumes/c9-docker-compose_9c-miner13-volume/_data/
+
+sudo cp -r ./* /var/lib/docker/volumes/c9-docker-compose_9c-miner14-volume/_data/
+
+sudo cp -r ./* /var/lib/docker/volumes/c9-docker-compose_9c-miner15-volume/_data/
+
+sudo cp -r ./* /var/lib/docker/volumes/c9-docker-compose_9c-miner16-volume/_data/
+
 echo "->Refresh complete."
 
 echo "->To begin mining, run: docker-compose up -d"
